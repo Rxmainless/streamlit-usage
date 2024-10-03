@@ -17,7 +17,7 @@ def convert_df_to_csv(df_2):
     return df_2.to_csv(index=False).encode('utf-8')
 
 # Início do aplicativo Streamlit
-st.title("Fatura Detalhada - RS Transportes e Logística Ltda")
+st.title("Gerador de Faturas")
 
 # Informações da empresa
 st.markdown("""
