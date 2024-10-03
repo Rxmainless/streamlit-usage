@@ -21,9 +21,9 @@ st.title("Fatura Detalhada - RS Transportes e Logística Ltda")
 
 # Informações da empresa
 st.markdown("""
-### CNPJ: 05654201000550
-### N° do Contrato: 1205
-### Serviços Contratados: Agiben Seguros, Clin, Melhor ai
+### CNPJ: XXXXXXXXXXXXXX
+### N° do Contrato: 1234
+### Serviços Contratados: XXXXXXXXXXXX
 """)
 
 # Inicializar a variável df como None
